@@ -6,4 +6,6 @@ import (
 
 func main() {
 	fmt.Println("Hello go")
+	fmt.Println("issue fixed go")
+
 }
